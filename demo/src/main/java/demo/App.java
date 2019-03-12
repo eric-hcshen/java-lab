@@ -1,4 +1,4 @@
-package com.tsmc;
+package demo;
 
 /**
  * Hello world!
